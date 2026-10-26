@@ -1,0 +1,22 @@
+PORTFOLIO - HENRY SILVA
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta no VS Code.
+3. Abra o arquivo index.html no navegador. Se preferir, use a extensao Live Server.
+
+O QUE TEM
+- Pagina inicial responsiva em preto e tons de cinza.
+- Secoes Sobre, Habilidades, Projetos, Cursos e Contato.
+- Botao para baixar o curriculo em PDF.
+- Cards de projeto que abrem uma pagina individual com descricao, tecnologias, GitHub e LinkedIn.
+- Menu mobile.
+
+ANTES DE PUBLICAR
+- Atualize email, LinkedIn e GitHub na index.html.
+- Atualize os links dos projetos e os textos em script.js.
+- Troque assets/cv-henry.pdf pelo seu curriculo atualizado.
+- Adicione links reais dos posts do LinkedIn.
+- Publique a pasta em GitHub Pages, Netlify ou Vercel.
+
+Os textos e links sao editaveis. Os projetos foram preenchidos com base nas informacoes conhecidas e devem ser revisados antes de publicar.
